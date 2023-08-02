@@ -1,0 +1,61 @@
+.btn-1 {}
+
+.task-1 {
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+}
+
+.login {
+    padding: 15px;
+    border-radius: 30px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-style: normal;
+    font-weight: 700;
+    font-size:20px;
+    border:none;
+    margin-left: 100px;
+}
+
+.cart {
+    padding: 15px;
+    border-radius: 30px;
+    background-color:darkslategray;
+    color: aliceblue;
+    font-style: normal;
+    font-weight: 700;
+    font-size:20px;
+    border:none;
+    margin-left: 150px;
+    
+}
+
+.download {
+    padding: 15px;
+    border-radius: 30px;
+    background-color:brown;
+    color: aliceblue;
+    font-style: normal;
+    font-weight: 700;
+    font-size:20px;
+    border:none;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.comment {
+    padding: 15px;
+    border-radius: 30px;
+    background-color:navy;
+    color: aliceblue;
+    font-style: normal;
+    font-weight: 700;
+    font-size:20px;
+    border:none;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.sec-1{
+    margin-top: 200px;
+}
